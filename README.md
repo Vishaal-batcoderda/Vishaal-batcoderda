@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Vishaal-batcoderda
-- 👀 I’m interested in ethical hacking
-- 🌱 I’m currently learning ethical hacking, web development
-- 💞️ I’m looking to collaborate on ethical hacking related projects
+- 👀 I’m interested in developing ML related projects, MERN applications
+- 🌱 I’m currently learning Machine Learning, web development
+- 💞️ I’m looking to collaborate on ML + web application related projects
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+@Linkedin: https://www.linkedin.com/in/vishaal-ravichandran-6b1b652a3/
+@gmail: vishaalravichandran369@gmail.com
 
 <!---
 Vishaal-batcoderda/Vishaal-batcoderda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
